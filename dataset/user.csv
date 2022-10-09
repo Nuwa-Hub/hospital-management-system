@@ -1,0 +1,9 @@
+useraname,password,user_type,user_id,full_name,address,NIC
+jane,81dc9bdb52d04dc20036dbd8313ed055,1,ef2f56b0-8166-424e-bc36-3cde18593cc0,jane,test,234567890
+kaly,827ccb0eea8a706c4c34a16891f84e7b,2,90ef3192-6389-4cf0-861c-efca64f36f85,kaly,test,344434434
+dale,81dc9bdb52d04dc20036dbd8313ed055,3,617ccbca-1fd0-4f9c-b12b-fce33d5073af,dale,test,345435434
+jon123,a25d81bcd108e04222c0cfff18e67ef3,1,8b29c6a7-2fac-47e2-8e93-9399f0f27fe4,jon snow,test,434434545
+june,81dc9bdb52d04dc20036dbd8313ed055,4,9a160285-2d1f-48df-99cb-f7703abc5ede,june,test,454435435
+terry,81dc9bdb52d04dc20036dbd8313ed055,5,f105ebba-8530-4007-940b-beb51cd722e0,terry,test,454434443
+dom,81dc9bdb52d04dc20036dbd8313ed055,3,8fd48c7f-e12f-4b0c-b330-be7cdbaeb6e3,dom hale,test,243567677
+july,81dc9bdb52d04dc20036dbd8313ed055,4,b94a9810-70e5-443a-9674-e9599768ec16,july,test,444343433

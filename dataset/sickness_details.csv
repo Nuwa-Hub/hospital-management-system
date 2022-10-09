@@ -1,0 +1,7 @@
+sickness_ID,doctor_ID,patient_ID,sickness,date,description
+cbb30f19-6ec1-4e9a-946d-66685ccabe31,b666dd27-53fc-44a8-b075-ed0bc3e7356b,b666dd27-53fc-44a8-b075-ed0bc3e7356b,test,10/7/2022,test
+04d9b5ea-a69f-41e5-bf14-8ae34d939bc9,01b99603-9a82-4d28-beeb-d8885c95ce6e,86a06415-1c40-43c8-9028-1e17b1166688,test,10/8/2022,test
+aa8811d3-6064-425b-bbf8-ce18d296689e,01b99603-9a82-4d28-beeb-d8885c95ce6e,5ec876b5-1c3a-48ee-b6af-64c165eb45b3,test,10/8/2022,test
+680a3c0a-4e57-4b9c-8502-1e79c12f44ac,ef2f56b0-8166-424e-bc36-3cde18593cc0,617ccbca-1fd0-4f9c-b12b-fce33d5073af,test,10/9/2022,test
+9ebaf110-d597-4bce-aa80-a22fbac5a11d,ef2f56b0-8166-424e-bc36-3cde18593cc0,617ccbca-1fd0-4f9c-b12b-fce33d5073af,test,2022-10-09
+24944534-f771-443e-b0ff-afbdfb3d8f12,ef2f56b0-8166-424e-bc36-3cde18593cc0,617ccbca-1fd0-4f9c-b12b-fce33d5073af,test,2022-10-09,test

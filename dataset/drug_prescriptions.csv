@@ -1,0 +1,5 @@
+"prescription_ID	doctor_ID	patient_ID	prescription	dose	dose_period	issue_date",,,,,,
+,,,,,,
+ab1d3f9e-1954-49e7-ba36-d349dceef76c,b666dd27-53fc-44a8-b075-ed0bc3e7356b,b666dd27-53fc-44a8-b075-ed0bc3e7356b,test,12,2,10/7/2022
+c8db1930-1061-4339-9a76-b018611a81d7,01b99603-9a82-4d28-beeb-d8885c95ce6e,86a06415-1c40-43c8-9028-1e17b1166688,test,12,3,2022-10-08
+59d9dcdb-ec33-434d-bb18-496d0ffeecb3,ef2f56b0-8166-424e-bc36-3cde18593cc0,617ccbca-1fd0-4f9c-b12b-fce33d5073af,test,13,2,2022-10-09

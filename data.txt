@@ -1,0 +1,13 @@
+users
+doctors- jane 1234
+       - jon  1234
+
+employee -kaly 12345
+         -joana 321
+patients -dany 1234
+          dale 1234
+          jony 1234
+
+nurses-july 1234
+
+lab assistent-terry 1234
